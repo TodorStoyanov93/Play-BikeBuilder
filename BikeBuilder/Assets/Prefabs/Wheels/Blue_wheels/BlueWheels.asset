@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57f39776c888e684ca3fb32dbabd9d2f, type: 3}
+  m_Name: BlueWheels
+  m_EditorClassIdentifier: 
+  name: wheels_blue
+  frontWheelPrefab: {fileID: 8487315261150462010, guid: 358a0d5b7dbfa9e48a38c8899718ce83, type: 3}
+  rearWheelPrefab: {fileID: 9153018798663523225, guid: feab17e39f0a454488930b59a8294406, type: 3}
